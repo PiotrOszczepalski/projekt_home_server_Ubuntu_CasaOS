@@ -68,6 +68,11 @@
 
    ![25_dyski_check](https://github.com/user-attachments/assets/109bc9be-5942-49d5-9135-3cd2b4d550de)
 
+4) Ustawienie statycznego adresu ip dla serwera na routerze:
+
+   ![26_statyczne_ip](https://github.com/user-attachments/assets/3a47e019-b8ac-4763-bbca-4e0190d5719e)
+
+
 
 
 
