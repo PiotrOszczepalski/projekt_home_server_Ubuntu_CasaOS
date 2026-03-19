@@ -5,7 +5,7 @@
    - wyczyszczenie płyty głównej szczotką antystatyczną
    - wyczyszczenie całego komputera z kurzu za pomocą sprężonego powietrza
    - ponowny montaż chłodzenia
-   - podpięcie 2 dysków (SSD na system oraz HDD na dane)
+   - podpięcie 2 dysków (SSD i HDD)
 
    ![01_chłodzenie](https://github.com/user-attachments/assets/5da78ce1-a3a5-4deb-9c56-3bf962972a0d)
 
@@ -36,6 +36,48 @@
 2) Przygotowanie pendrive'a z systemem Linux Ubuntu Server za pomocą programu Rufus:
 
    ![14_rufus](https://github.com/user-attachments/assets/6ec1a59e-ddca-433c-a766-c9d450cb426b)
+
+3) Instalacja systemu Linux Ubuntu Server:
+   - podpięcie serwera do routera, aby uzyskał od niego adres ip i dostęp do internetu podczas instalacji
+   - podpięcie pendrive'a z systemem
+   - wybór języka
+   - konfiguracja dysków (SSD na system oraz HDD na dane)
+   - instalacja SSH
+   - system zainstalowany
+   - sprawdzenie, czy dyski są widoczne w systemie
+
+   ![15_ethernet](https://github.com/user-attachments/assets/6690a49a-2475-40e5-812d-d22780fcf3ef)
+
+   ![16_router](https://github.com/user-attachments/assets/2e21f41c-a1aa-4add-b7d7-dd3d5dbb2b94)
+
+   ![17_pendrive](https://github.com/user-attachments/assets/065c9947-25e4-4268-9df0-0b4405c32d62)
+
+   ![18_język](https://github.com/user-attachments/assets/335a07ac-c2dd-4b6a-a906-b936c08d6548)
+
+   ![19_dysk1](https://github.com/user-attachments/assets/c1dc9d20-a7ef-43a1-9a67-999e4307e213)
+
+   ![20_dysk2](https://github.com/user-attachments/assets/bbf3a43a-cd24-4227-9d73-6f39da63179a)
+
+   ![21_wszystkie_dyski](https://github.com/user-attachments/assets/06766103-c76c-4034-a64d-96964b37fc74)
+
+   ![22_ssh](https://github.com/user-attachments/assets/c8eaad65-bddf-418d-b8bb-a450b252ec14)
+
+   ![23_instalacja](https://github.com/user-attachments/assets/15e2d8da-aa9c-4dd9-b3b1-324577675a3d)
+
+   ![24_instalacja_gotowa](https://github.com/user-attachments/assets/4813252e-a715-43a1-8868-1e5d469bbfba)
+
+   ![25_dyski_check](https://github.com/user-attachments/assets/109bc9be-5942-49d5-9135-3cd2b4d550de)
+
+
+
+
+
+
+
+
+
+
+
 
 
 
