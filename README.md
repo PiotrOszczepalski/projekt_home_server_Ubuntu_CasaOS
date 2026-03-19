@@ -33,6 +33,11 @@
 
    ![13_montaż_dysk_hdd](https://github.com/user-attachments/assets/82810b80-9b2a-4b85-b99f-8eef8465d086)
 
+2) Przygotowanie pendrive'a z systemem Linux Ubuntu Server za pomocą programu Rufus:
+
+   ![14_rufus](https://github.com/user-attachments/assets/6ec1a59e-ddca-433c-a766-c9d450cb426b)
+
+
 
 
 
