@@ -79,7 +79,7 @@
 
    ![27_ssh](https://github.com/user-attachments/assets/338a6846-8843-4151-96ba-fae34770f467)
 
-   ![28_ssh2](https://github.com/user-attachments/assets/e621a3b8-dc19-47b4-afad-380b56ece3a8)
+   ![28_ssh2](https://github.com/user-attachments/assets/7555fa78-f5a4-4d94-a5e2-67a5f15dc461)
 
 
 
