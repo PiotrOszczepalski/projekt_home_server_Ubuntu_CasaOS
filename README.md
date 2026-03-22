@@ -72,6 +72,19 @@
 
    ![26_statyczne_ip](https://github.com/user-attachments/assets/3a47e019-b8ac-4763-bbca-4e0190d5719e)
 
+5) Konfiguracja SSH:
+   - włączenie usługi SSH
+   - włączenie automatycznego uruchamiania usługi serwera SSH podczas startu systemu
+   - ponowne uruchomienie serwera, usługa SSH jest aktywna
+
+   ![27_ssh](https://github.com/user-attachments/assets/338a6846-8843-4151-96ba-fae34770f467)
+
+   ![28_ssh2](https://github.com/user-attachments/assets/e621a3b8-dc19-47b4-afad-380b56ece3a8)
+
+
+
+   
+
 
 
 
