@@ -81,6 +81,26 @@
 
    ![28_ssh2](https://github.com/user-attachments/assets/7555fa78-f5a4-4d94-a5e2-67a5f15dc461)
 
+6) Usługa SSH:
+   - połączenie się z serwerem na komputerze będącym w tej samej sieci lokalnej
+   - instalacja CasaOS
+   - tworzenie konta
+   - dostęp do panelu administracyjnego serwera
+
+   ![29_ssh_logowanie](https://github.com/user-attachments/assets/5d83b5a7-1dd1-4b06-829c-b230e09b1378)
+   
+   ![30_casa_os_instalacja](https://github.com/user-attachments/assets/6dfad0e4-c12b-44ee-adc1-5c279976e7cd)
+
+   ![31_casa_os_instalacja2](https://github.com/user-attachments/assets/70b354d1-518d-4f67-9d95-81a306c8dfa1)
+
+   ![32_casa_os_tworzenie_konta](https://github.com/user-attachments/assets/baf73153-2386-4182-8261-4ff1d15738ce)
+
+   ![33_casa_os_panel](https://github.com/user-attachments/assets/e48211b7-f3f5-40ae-9d42-372af342e7c5)
+
+
+
+
+
 
 
    
