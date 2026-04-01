@@ -145,6 +145,29 @@
 
    ![50_jellyfin_userzy](https://github.com/user-attachments/assets/445c5404-97b4-49ff-af0c-c0c61c3a03dd)
 
+9) Jellyfin - możliwość oglądania filmów na urządzeniach mobilnych w sieci lokalnej:
+   - instalacja Jellyfin na telefonie
+   - połączenie się z domowym serwerem
+   - zalogowanie się na konto domownika
+   - filmy są dostępne
+   - oglądanie jednego z filmów na telefonie
+
+   ![51_jellyfin_telefon_instalacja](https://github.com/user-attachments/assets/f8fc6980-1a0f-46a8-a696-94f8f63c1d1c)
+
+   ![52_jellyfin_połączenie_z_serwerem_na_telefonie](https://github.com/user-attachments/assets/2f5cc767-920b-416e-a303-52b9384d6098)
+   
+   ![53_jellyfin_logowanie_na_konto_domownika](https://github.com/user-attachments/assets/82e80203-8545-41f2-93e0-8ec85af9e358)
+
+   ![54_jellyfin_na_telefonie](https://github.com/user-attachments/assets/7cfc508a-2e4f-4159-b79d-e1eabaf907c8)
+
+   ![55_jellyfin_odtwarzanie_filmu_na_telefonie](https://github.com/user-attachments/assets/ae9db5eb-e4bf-4431-8464-e12d301567b0)
+
+
+
+   
+
+
+
 
 
 
