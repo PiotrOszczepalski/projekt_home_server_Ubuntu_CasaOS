@@ -97,6 +97,29 @@
 
    ![33_casa_os_panel](https://github.com/user-attachments/assets/e48211b7-f3f5-40ae-9d42-372af342e7c5)
 
+7) SAMBA:
+   - konfiguracja udostępniania plików w sieci lokalnej przy użyciu protokołu SMB
+   - udostępnienie katalogu sieciowego dostępnego z poziomu systemu Windows
+   - transfer plików między hostem Windows a serwerem Linux
+
+   ![34_nowy_folder_na_serwerze](https://github.com/user-attachments/assets/3ab0beab-af2e-4b4c-a8b7-de3b198cefba)
+   
+   ![35_skopiowanie_ścieżki](https://github.com/user-attachments/assets/52484c0f-5f8f-4528-bcbf-8bb25e5b2b61)
+
+   ![36_eksplorator](https://github.com/user-attachments/assets/dd70d5a1-31f6-470e-a489-c0b200575e8b)
+
+   ![37_upload_plików](https://github.com/user-attachments/assets/7a901e09-c85e-4568-a632-6cebf98a65df)
+
+   ![38_pliki_na_serwerze](https://github.com/user-attachments/assets/2a770bca-626a-4623-bdd8-2d39fc81cece)
+
+   
+
+
+
+
+   
+
+
 
 
 
