@@ -160,7 +160,8 @@
 
    ![54_jellyfin_na_telefonie](https://github.com/user-attachments/assets/7cfc508a-2e4f-4159-b79d-e1eabaf907c8)
 
-   ![55_jellyfin_odtwarzanie_filmu_na_telefonie](https://github.com/user-attachments/assets/ae9db5eb-e4bf-4431-8464-e12d301567b0)
+   ![55_jellyfin_odtwarzanie_filmu_na_telefonie](https://github.com/user-attachments/assets/11e7ddbf-2c91-4c96-a50b-4f2656a6475e)
+
 
 
 
