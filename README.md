@@ -4,7 +4,7 @@ Home Server | DELL OptiPlex 5040 + Linux Ubuntu Server + CasaOS
 
 Projekt domowego serwera w celu nauki administracji systemami Linux oraz zarządzania usługami sieciowymi. Utworzyłem środowisko serwerowe na bazie komputera DELL OptiPlex 5040, na którym zainstalowałem system Ubuntu Server oraz platformę CasaOS, umożliwiającą zarządzanie aplikacjami w środowisku webowym.
 
-Cel projektu: serwis urządzenia (czyszczenie, wymiana pasty termoprzewodzącej) instalacja i konfiguracja systemu Ubuntu Server (partycjonowanie/montowanie dysków, zarządzanie usługami, dostęp SSH), udostępnianie plików w sieci lokalnej (SMB), wdrożenie usług Jellyfin (streaming multimediów) oraz Immich (lokalna chmura i backup zdjęć z telefonu), konfiguracja serwera DNS z wykorzystaniem Pi-hole (blokowanie reklam w sieci lokalnej), zarządzanie usługami poprzez CasaOS
+Cel projektu: serwis urządzenia (czyszczenie, wymiana pasty termoprzewodzącej), podpięcie dysków SSD oraz HDD, instalacja i administracja Ubuntu Server oraz CasaOS (SSH, partycjonowanie/montowanie dysków, monitorowanie temperatur, zarządzanie usługami), udostępnianie plików w sieci (SMB), wdrożenie usług Jellyfin (streaming multimediów) oraz Immich (lokalna chmura i backup zdjęć z urządzeń mobilnych), konfiguracja Pi-hole jako serwera DNS blokującego reklamy.
 
 1) Podstawowy serwis komputera Dell i przygotowanie go do dalszej pracy:
    - wyczyszczenie starej pasty termoprzewodzącej z procesora i chłodzenia za pomocą alkoholu izopropylowego
