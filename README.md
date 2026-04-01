@@ -112,6 +112,55 @@
 
    ![38_pliki_na_serwerze](https://github.com/user-attachments/assets/2a770bca-626a-4623-bdd8-2d39fc81cece)
 
+8) Wdrożenie usługi Jellyfin (streaming multimediów):
+   - zainstalowanie Jellyfin na serwerze
+   - wrzucenie filmów na serwer
+   - utworzenie konta administratora
+   - konfiguracja ścieżki dostępu do filmów
+   - zalogowanie się na konto administratora
+   - filmy są widoczne na stronie głównej po zalogowaniu
+   - utworzenie kont dla domowników
+     
+   ![39_jellyfin_instalacja1](https://github.com/user-attachments/assets/a19b1a52-5b69-48a2-b282-bf19e92558ba)
+
+   ![40_jellyfin_instalacja2](https://github.com/user-attachments/assets/08af1c61-b2d8-4416-87ae-177e4fdc9d19)
+   
+   ![41_jellyfin_instalacja3](https://github.com/user-attachments/assets/37c12f08-1b37-4839-8568-a06533bd9234)
+
+   ![42_upload_filmów_na_serwer](https://github.com/user-attachments/assets/6642ec94-1272-4bf8-a12d-7c583ffb673e)
+
+   ![43_filmy_na_serwerze](https://github.com/user-attachments/assets/2e903813-2438-424a-9a91-0d0a5624bb84)
+   
+   ![44_jellyfin_konfiguracja1](https://github.com/user-attachments/assets/d3d52e22-6160-47a6-af98-528810be316f)
+   
+   ![45_jellyfin_konfiguracja2](https://github.com/user-attachments/assets/0ecd9b23-4a35-4017-8a3b-b0f02b4a822c)
+
+   ![46_jellyfin_logowanie](https://github.com/user-attachments/assets/2803b6a7-51da-498f-8d90-e91abb20248f)
+
+   ![47_jellyfin_widoczne_filmy](https://github.com/user-attachments/assets/8b560c53-a64d-4c67-a43c-0a6d88c16596)
+
+   ![48_jellyfin_nowy_user1](https://github.com/user-attachments/assets/6d02ae23-3baf-4310-ab9d-12f9c7ab0bb7)
+
+   ![49_jellyfin_nowy_user2](https://github.com/user-attachments/assets/4a6e8634-55d1-4817-9dca-35537510a10c)
+
+   ![50_jellyfin_userzy](https://github.com/user-attachments/assets/445c5404-97b4-49ff-af0c-c0c61c3a03dd)
+
+
+
+
+
+
+   
+
+   
+
+
+
+   
+
+
+   
+
    
 
 
