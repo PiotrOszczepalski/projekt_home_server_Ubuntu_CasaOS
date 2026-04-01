@@ -212,6 +212,20 @@
 
     ![71_immich_zdjęcia_na_serwerze](https://github.com/user-attachments/assets/9c252047-5265-4657-a6e4-734564aafd72)
 
+13) Podłączenie tego samego dysku HDD do Jellyfin, aby również miał do niego dostęp (przykładowe odtworzenie muzyki zapisanej na HDD):
+
+    ![72_jellyfin_dodanie_hdd](https://github.com/user-attachments/assets/df6ba485-484b-42cc-a2b7-0e44c328ab29)
+
+    ![73_jellyfin_nowa_biblioteka](https://github.com/user-attachments/assets/b750eda9-b46f-4a2c-b326-61f1a1137270)
+
+    ![74_jellyfin_nowa_biblioteka2](https://github.com/user-attachments/assets/bad79a4e-ba18-4e5b-8648-0c1d153fe201)
+
+    ![75_jellyfin_muzyka_z_hdd](https://github.com/user-attachments/assets/167f052f-3fc9-4474-83a9-3c323530c53f)
+
+
+
+
+
 
 
 
