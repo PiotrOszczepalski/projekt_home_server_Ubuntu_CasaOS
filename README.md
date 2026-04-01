@@ -162,6 +162,11 @@
 
    ![55_jellyfin_odtwarzanie_filmu_na_telefonie](https://github.com/user-attachments/assets/11e7ddbf-2c91-4c96-a50b-4f2656a6475e)
 
+10) Jellyfin - możliwość oglądania różnych filmów na kilku urządzeniach w tym samym czasie (każdy domownik ma swoje własne konto):
+
+   ![56_jellyfin_dwa_różne_urządzenia](https://github.com/user-attachments/assets/24d3730d-2152-4e55-8ba3-1c2aefbc420d)
+
+
 
 
 
