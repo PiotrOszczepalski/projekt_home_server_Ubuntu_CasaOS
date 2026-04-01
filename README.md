@@ -165,6 +165,40 @@
 10) Jellyfin - możliwość oglądania różnych filmów na kilku urządzeniach w tym samym czasie (każdy domownik ma swoje własne konto):
 
     ![56_jellyfin_dwa_różne_urządzenia](https://github.com/user-attachments/assets/24d3730d-2152-4e55-8ba3-1c2aefbc420d)
+
+11) Wdrożenie usługi Immich (domowa chmura i wygodny backup zdjęć z telefonu):
+    - utworzenie dedykowanego punktu montowania, aby zdjęcia mogły zapisywać się na dysku HDD o pojemności 300 GB, a nie na dysku systemowym SSD o pojemności 120 GB (wcześniejsze automatyczne montowanie dysku HDD przez system nie zapewniało stabilności      wymaganej przez aplikacje kontenerowe)
+    - zidentyfikowanie unikalnego identyfikatora partycji - UUID (blkid)
+    - dodanie wpisu do pliku /etc/fstab (automatyczne montowanie dysku przy każdym starcie systemu)
+    - przeładowanie konfiguracji oraz test poprawności montowania (systemctl daemon-reload, mount -a)
+    - instalacja niestandardowa Immich (wskazanie dedykowanego dysku HDD)
+    - utworzenie konta administratora
+    - dostęp do panelu, Immich prawidłowo wykrywa dostępne miejsce - 292 GiB (HDD podłączony poprawnie)
+
+    ![57_tworzenie_punktu_montowania_i_sprawdzenie_UUID](https://github.com/user-attachments/assets/bc720f27-2b62-44b4-a040-c73e1e5272e6)
+
+    ![58_fstab](https://github.com/user-attachments/assets/dce512a5-77a2-4f0c-831e-68dabcc7c600)
+
+    ![59_montowanie_dysku](https://github.com/user-attachments/assets/dd27f7ba-ebd7-484a-8b76-572ceac1ada0)
+
+    ![60_immich_instalacja_custom](https://github.com/user-attachments/assets/f69712d3-7523-4ee6-8392-2011a6f18bd2)
+
+    ![61_immich_lokalizacja_hdd](https://github.com/user-attachments/assets/f4689cc0-5556-4b99-868f-08bccc8352b1)
+
+    ![62_immich_instalacja2](https://github.com/user-attachments/assets/b0f2f8b0-df78-44d0-8c5e-52d1c363904f)
+
+    ![63_immich_instalacja3](https://github.com/user-attachments/assets/c32f5b8a-192e-4dae-a03a-e473f6e1128d)
+    
+    ![64_immich_konfiguracja](https://github.com/user-attachments/assets/8b8d2819-e431-4bfe-80ba-c56d2ba3cb06)
+
+    ![65_immich_panel](https://github.com/user-attachments/assets/277155a9-7061-42a4-9d2a-f765b727648d)
+
+    
+
+
+
+
+
    
 
 
