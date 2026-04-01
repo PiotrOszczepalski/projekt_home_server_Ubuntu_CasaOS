@@ -164,7 +164,8 @@
 
 10) Jellyfin - możliwość oglądania różnych filmów na kilku urządzeniach w tym samym czasie (każdy domownik ma swoje własne konto):
 
-   ![56_jellyfin_dwa_różne_urządzenia](https://github.com/user-attachments/assets/24d3730d-2152-4e55-8ba3-1c2aefbc420d)
+    ![56_jellyfin_dwa_różne_urządzenia](https://github.com/user-attachments/assets/24d3730d-2152-4e55-8ba3-1c2aefbc420d)
+   
 
 
 
