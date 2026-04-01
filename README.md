@@ -193,6 +193,31 @@
 
     ![65_immich_panel](https://github.com/user-attachments/assets/277155a9-7061-42a4-9d2a-f765b727648d)
 
+12) Konfiguracja Immich na telefonie:
+    - instalacja aplikacji
+    - połączenie się z domowym serwerem
+    - logowanie
+    - upload zdjęć na serwer
+    - zdjęcia są dostępne w aplikacji Immich na każdym urządzeniu w sieci lokalnej
+
+    ![66_immich_instalacja_na_telefonie](https://github.com/user-attachments/assets/093909d6-2fe2-4e69-8088-907a6fc832dd)
+
+    ![67_immich_konfiguracja_na_telefonie](https://github.com/user-attachments/assets/c371a04e-a58a-4953-ad38-841c4d2e0bab)
+
+    ![68_immich_logowanie_na_telefonie](https://github.com/user-attachments/assets/777419f8-afbe-414b-8c50-df2bd2733b3f)
+
+    ![69_immich_upload_zdjęć_z_galerii](https://github.com/user-attachments/assets/5531914c-c3c1-4ed3-8bc3-262d073df682)
+
+    ![70_immich_upload_zdjęć_z_galerii2](https://github.com/user-attachments/assets/07f1f77e-6333-41b4-b40f-263095ea9b3f)
+
+    ![71_immich_zdjęcia_na_serwerze](https://github.com/user-attachments/assets/9c252047-5265-4657-a6e4-734564aafd72)
+
+
+
+
+
+
+
     
 
 
