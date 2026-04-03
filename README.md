@@ -244,6 +244,17 @@ Cel projektu: serwis urządzenia (czyszczenie, wymiana pasty termoprzewodzącej)
 
     ![79_wolny_port_53](https://github.com/user-attachments/assets/d881c05d-6706-4c15-b8fe-e8bb7a669a9d)
 
+15) Instalacja Pi-hole (serwer DNS blokujący reklamy w sieci lokalnej):
+    
+    ![80_pi-hole_instalacja](https://github.com/user-attachments/assets/089c3f54-cbad-41c5-9bdc-1c310602e187)
+
+    ![81_pi-hole_instalacja2](https://github.com/user-attachments/assets/1737847b-41b9-4d9a-aea9-bc814c713e36)
+
+    ![82_pi-hole_instalacja3](https://github.com/user-attachments/assets/c946ecd3-1fb3-4ce5-ba8d-4156627072ae)
+
+
+
+
 
 
 
