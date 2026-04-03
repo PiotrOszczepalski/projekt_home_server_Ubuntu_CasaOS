@@ -230,6 +230,24 @@ Cel projektu: serwis urządzenia (czyszczenie, wymiana pasty termoprzewodzącej)
 
     ![75_jellyfin_muzyka_z_hdd](https://github.com/user-attachments/assets/167f052f-3fc9-4474-83a9-3c323530c53f)
 
+14) Przygotowania do instalacji Pi-hole:
+    - zajęty port 53 przez usługę systemową systemd-resolve, która domyślnie obsługuje lokalne rozwiązywanie nazw w systemie Ubuntu
+    - wyłączenie mechanizmu DNSStubListener w pliku konfiguracyjnym /etc/systemd/resolved.conf
+    - restart usługi
+    - port 53 jest wolny i może być wykorzystany przez Pi-hole
+
+    ![76_zajęty_port_53](https://github.com/user-attachments/assets/cf360e0e-1884-4dfa-873c-f0eecacec8c3)
+
+    ![77_odblokowanie_portu_53](https://github.com/user-attachments/assets/e556bcfa-01b9-408b-9165-636c0e87c69b)
+
+    ![78_restart_systemd-resolved](https://github.com/user-attachments/assets/2f082dff-b0f6-4254-97e4-37218324f266)
+
+    ![79_wolny_port_53](https://github.com/user-attachments/assets/d881c05d-6706-4c15-b8fe-e8bb7a669a9d)
+
+
+
+
+
 
 
 
