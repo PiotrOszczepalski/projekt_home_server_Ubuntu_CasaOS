@@ -289,6 +289,8 @@ Cel projektu: serwis urządzenia (czyszczenie, wymiana pasty termoprzewodzącej)
 
     ![94_pi-hole_lista_klientów](https://github.com/user-attachments/assets/69dd782c-e50d-4949-ac9b-1cc7c45e5cf2)
 
+17) Monitorowanie wydajności serwera:
+
 
 
 
