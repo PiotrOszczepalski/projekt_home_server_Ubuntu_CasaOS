@@ -299,6 +299,22 @@ Cel projektu: serwis urządzenia (czyszczenie, wymiana pasty termoprzewodzącej)
       - 1 - stan bezczynności, minimalne transfery rzędu 1 KB/s
       - 2 - włączenie krótkiego filmiku w usłudze Jellyfin, zwiększenie skali do 5000 (aby zobrazować większy ruch), wzrost transferu i pik na wykresie (moment buforowania)
 
+    
+    ![95_monitorowanie_dysków](https://github.com/user-attachments/assets/bc3f45a9-52ba-4e3c-b748-c203a6c3b597)
+
+    ![96_monitorowanie_dysków2](https://github.com/user-attachments/assets/f258ebdd-d958-49f4-a753-6be6d7688ce8)
+
+    ![97_monitorowanie_ram](https://github.com/user-attachments/assets/cd9197a0-d2aa-4c17-a3bf-741a1a703a3b)
+
+    ![98_monitorowanie_cpu](https://github.com/user-attachments/assets/abba7585-0917-4f36-9372-ba565e8bd0db)
+
+    ![99_monitorowanie_cpu2](https://github.com/user-attachments/assets/4d158ac6-09e3-41ef-afa6-fc422b00a9fe)
+
+    ![100_monitorowanie_sieci](https://github.com/user-attachments/assets/7b2e83d7-deef-47e3-a522-2064972f964a)
+
+
+
+
 
 
 
