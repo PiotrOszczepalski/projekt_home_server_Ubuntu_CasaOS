@@ -230,7 +230,7 @@ Cel projektu: serwis urządzenia (czyszczenie, wymiana pasty termoprzewodzącej)
 
     ![75_jellyfin_muzyka_z_hdd](https://github.com/user-attachments/assets/167f052f-3fc9-4474-83a9-3c323530c53f)
 
-14) Przygotowania do instalacji Pi-hole (serwer DNS blokujący reklamy w sieci lokalnej):
+14) Przygotowania do instalacji Pi-hole (serwera DNS blokującego reklamy w sieci lokalnej):
     - zajęty port 53 przez usługę systemową systemd-resolve, która domyślnie obsługuje lokalne rozwiązywanie nazw w systemie Ubuntu
     - wyłączenie mechanizmu DNSStubListener w pliku konfiguracyjnym /etc/systemd/resolved.conf
     - restart usługi
@@ -290,6 +290,12 @@ Cel projektu: serwis urządzenia (czyszczenie, wymiana pasty termoprzewodzącej)
     ![94_pi-hole_lista_klientów](https://github.com/user-attachments/assets/69dd782c-e50d-4949-ac9b-1cc7c45e5cf2)
 
 17) Monitorowanie wydajności serwera:
+    - kondycja i temperatury dysków:
+      - dysk SSD - zdrowy, temperatura 33 °C (bardzo dobra)
+      - dysk HDD - zdrowy, temperatura 29 °C (również bardzo dobra, ale żeby ją sprawdzić trzeba użyć polecenia w terminalu smartctl -A /dev/sda2 | grep -i temperature - wynika to z ograniczeń CasaOS)
+    - monitorowanie zużycia pamięci RAM (zużycie jest małe, 16 GB ram jest wystarczające do obsłużenia podstawowych aplikacji kontenerowych)
+    - monitorowanie procesora (procesor i3 6100 pomimo posiadania 2 rdzeni daje sobie bez problemu radę przy podstawowych aplikacjach; dzięki wcześniejszej wymianie pasty termoprzewodzącej i wyczyszczeniu chłodzenia temperatura CPU jest bardzo niska -         ok. 25 °C)
+    - 
 
 
 
