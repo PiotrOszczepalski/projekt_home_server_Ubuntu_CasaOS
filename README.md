@@ -230,7 +230,7 @@ Cel projektu: serwis urządzenia (czyszczenie, wymiana pasty termoprzewodzącej)
 
     ![75_jellyfin_muzyka_z_hdd](https://github.com/user-attachments/assets/167f052f-3fc9-4474-83a9-3c323530c53f)
 
-14) Przygotowania do instalacji Pi-hole:
+14) Przygotowania do instalacji Pi-hole (serwer DNS blokujący reklamy w sieci lokalnej):
     - zajęty port 53 przez usługę systemową systemd-resolve, która domyślnie obsługuje lokalne rozwiązywanie nazw w systemie Ubuntu
     - wyłączenie mechanizmu DNSStubListener w pliku konfiguracyjnym /etc/systemd/resolved.conf
     - restart usługi
@@ -244,13 +244,60 @@ Cel projektu: serwis urządzenia (czyszczenie, wymiana pasty termoprzewodzącej)
 
     ![79_wolny_port_53](https://github.com/user-attachments/assets/d881c05d-6706-4c15-b8fe-e8bb7a669a9d)
 
-15) Instalacja Pi-hole (serwer DNS blokujący reklamy w sieci lokalnej):
+15) Instalacja Pi-hole:
     
     ![80_pi-hole_instalacja](https://github.com/user-attachments/assets/089c3f54-cbad-41c5-9bdc-1c310602e187)
 
     ![81_pi-hole_instalacja2](https://github.com/user-attachments/assets/1737847b-41b9-4d9a-aea9-bc814c713e36)
 
     ![82_pi-hole_instalacja3](https://github.com/user-attachments/assets/c946ecd3-1fb3-4ce5-ba8d-4156627072ae)
+
+16) Konfiguracja Pi-hole:
+    - zmiana domyślnego hasła
+    - logowanie
+    - dostęp do panelu
+    - ustawienie domowego serwera jako główny adres DNS na routerze
+    - wyłączenie DHCPv6, aby router nie przydzielał adresu DNS poprzez IPv6
+    - poprawna konfiguracja, klienci w sieci otrzymują jako serwer DNS adres IP domowego serwera z zainstalowanym Pi-hole
+    - blokowanie reklam na stronie Onetu (komputer stacjonarny)
+    - blokowanie reklam na stronie Interii (smartfon)
+    - blokowanie reklam w aplikacji (menedżer plików na telefonie)
+    - lista zablokowanych reklam w panelu administracyjnym Pi-hole
+    - lista klientów w sieci lokalnej korzystających z Pi-hole
+
+    ![83_pi-hole_zmiana_domyślnego_hasła](https://github.com/user-attachments/assets/486f8f32-e29a-438f-80c3-1dfabd882b9c)
+
+    ![84_pi-hole_logowanie](https://github.com/user-attachments/assets/b4e4933e-aeda-4cfa-8336-5502149547b5)
+
+    ![85_pi-hole_panel](https://github.com/user-attachments/assets/5a7ce710-f7ca-4847-ac45-20e7aa83ebed)
+
+    ![86_pi-hole_dns_na_routerze](https://github.com/user-attachments/assets/94950862-f190-4b3f-adf7-b9e788f326a5)
+
+    ![87_pi-hole_wyłączenie_dhcp_ipv6_na_routerze](https://github.com/user-attachments/assets/19aab525-8c00-4b2d-bfbe-b6cf777ca0c0)
+
+    ![88_pi-hole_dns_poprawna_konfiguracja_na_routerze](https://github.com/user-attachments/assets/b1b321e0-7e2d-4443-8aaf-05f69a29e21e)
+
+    ![89_pi-hole_zablokowane_reklamy_na_stronie_onetu_na_komputerze](https://github.com/user-attachments/assets/157f39c6-88f2-4cb8-95be-9d90d3d2251c)
+
+    ![90_pi-hole_zablokowane_reklamy_na_stronie_interii_na_telefonie](https://github.com/user-attachments/assets/726165fb-6d50-4ed5-a81f-cda7627e3dea)
+
+    ![91_menedżer_plików_na_telefonie_przed_zastosowaniem_pi-hole_w_sieci](https://github.com/user-attachments/assets/02704849-99ff-4160-8db1-2b8dec29e6f7)
+
+    ![92_menedżer_plików_na_telefonie_po_zastosowaniu_pi-hole_w_sieci](https://github.com/user-attachments/assets/8298cbe0-68c4-451b-8f3c-b64a62b8b9b8)
+
+    ![93_pi-hole_lista_zablokowanych_reklam](https://github.com/user-attachments/assets/03c5a684-deab-4d11-836c-a059d9060304)
+
+    ![94_pi-hole_lista_klientów](https://github.com/user-attachments/assets/69dd782c-e50d-4949-ac9b-1cc7c45e5cf2)
+
+
+
+
+
+
+
+
+
+
 
 
 
