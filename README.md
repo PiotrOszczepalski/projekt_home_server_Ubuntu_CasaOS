@@ -295,7 +295,9 @@ Cel projektu: serwis urządzenia (czyszczenie, wymiana pasty termoprzewodzącej)
       - dysk HDD - zdrowy, temperatura 29 °C (również bardzo dobra, ale żeby ją sprawdzić trzeba użyć polecenia w terminalu smartctl -A /dev/sda2 | grep -i temperature - wynika to z ograniczeń CasaOS)
     - monitorowanie zużycia pamięci RAM (zużycie jest małe, 16 GB ram jest wystarczające do obsłużenia podstawowych aplikacji kontenerowych)
     - monitorowanie procesora (procesor i3 6100 pomimo posiadania 2 rdzeni daje sobie bez problemu radę przy podstawowych aplikacjach; dzięki wcześniejszej wymianie pasty termoprzewodzącej i wyczyszczeniu chłodzenia temperatura CPU jest bardzo niska -         ok. 25 °C)
-    - monitorowanie stanu sieci (1 - stan bezczynności, minimalne transfery rzędu 1 KB/s; 2 - włączenie krótkiego filmiku w usłudze Jellyfin, zwiększenie skali do 5000 (aby zobrazować wiekszy ruch), wzrost transferu i pik na wykresie (moment                   buforowania))
+    - monitorowanie stanu sieci:
+      - 1 - stan bezczynności, minimalne transfery rzędu 1 KB/s
+      - 2 - włączenie krótkiego filmiku w usłudze Jellyfin, zwiększenie skali do 5000 (aby zobrazować wiekszy ruch), wzrost transferu i pik na wykresie (moment buforowania)
 
 
 
